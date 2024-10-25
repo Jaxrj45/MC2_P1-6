@@ -153,7 +153,7 @@ boton_vertice.grid(row=3, column=1, padx=10, pady=10)
 txt_arista = tk.Entry(ventana, width=25)
 txt_arista.grid(row=4, column=2, padx=10, pady=10)
 
-boton_arista = tk.Button(ventana, text="Ingrese el nombre ", command=on_button_click2)
+boton_arista = tk.Button(ventana, text="Agregar Arista ", command=on_button_click2)
 boton_arista.grid(row=4, column=1, padx=10, pady=10)  # Fila 0, columna 0
 
 # *****************************Boton Grafo
