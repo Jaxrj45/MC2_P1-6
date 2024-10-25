@@ -116,3 +116,7 @@ Todos los errores encontrados se listan en el área de errores de la interfaz gr
 
 ### Interfaz gráfica
 ![alt text](image-8.png)
+
+#### 6. Vídeo
+
+https://youtu.be/kRqa8QpQieM
