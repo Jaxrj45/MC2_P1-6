@@ -1,3 +1,0 @@
-digraph {
-	A [fixedsize=true height=2 image="ruta/a/tu/imagen.png" shape=rect width=2]
-}
