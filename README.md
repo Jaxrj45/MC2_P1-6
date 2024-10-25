@@ -10,11 +10,11 @@ vértices y aristas, y visualizar el grafo resultante en un formato de imagen.
 
 1. Python 3.x instalado. 
 2. *Instalación de las siguientes librerías*:
-   a. Tkinter (generalmente incluida en Python). 
-   b. Graphviz. 
-   c. Pillow para manejar las imágenes.
+   - Tkinter (generalmente incluida en Python). 
+   - Graphviz. 
+   - Pillow para manejar las imágenes.
    Para instalar las dependencias, utiliza:
-   - pip install graphviz pillow 
+   - `pip install graphviz pillow`
    - Además, deberás instalar Graphviz en tu sistema y asegurarte de que está configurado en tu PATH. Puedes descargarlo desde [Graphviz.org.](https://graphviz.org)
 
 #### 3. Instalación 
@@ -27,8 +27,7 @@ vértices y aristas, y visualizar el grafo resultante en un formato de imagen.
 
 La interfaz está diseñada para ser fácil de usar y consta de las siguientes secciones:
 - *Área de Imagen*: Muestra el grafo generado por el usuario.
-- *Sección Para Agregar Vértice*: En la caja de texto mostrada se coloca el nom
-- *Menú de Opciones*: Contiene las opciones para abrir, guardar, analizar y visualizar los tokens.
+- *Área de botones*: Se realiza el ingreso de vértices y aristas, también se genera el grafo y los árboles de búsqueda.
 
 ![alt text](image-1.jpg)
 
@@ -40,7 +39,7 @@ La interfaz está diseñada para ser fácil de usar y consta de las siguientes s
 
 3. *Ingresar Aristas*: En el campo Arista, ingresa la conexión entre dos vértices en el formato A,B, donde A es el vértice de origen y B es el vértice de destino.
 Presiona Enter o el botón de agregar arista para registrar la arista en el programa. La arista ingresada aparecerá en el resumen a la derecha junto con el resto de vértices y aristas ingresados.
-![alt text](imagen1.jpg)
+![alt text](image-2.jpg)
 
 4. *Mostrar el Grafo*: Una vez que hayas ingresado todos los vértices y aristas necesarios, haz clic en el botón Mostrar el Grafo. El grafo original se mostrará en  la pantalla, mostrando los vértices y las conexiones tal como las ingresaste.
 
