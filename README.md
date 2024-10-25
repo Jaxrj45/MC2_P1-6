@@ -68,9 +68,9 @@ La estructura general del código se puede dividir en las siguientes secciones:
 - *Mostrar Imágenes:* Maneja la visualización de imágenes generadas.
 - *Obtener Datos de Entrada:* Funciones que se activan al hacer clic en botones para agregar vértices o aristas.
 5. **Interfaz de Usuario:** 
-- Se crean campos de entrada (Entry) para agregar vértices y aristas.
+- Se crean campos de entrada `(Entry)` para agregar vértices y aristas.
 - Se generan botones para realizar acciones (agregar vértices, agregar aristas, mostrar el grafo).
-- Se organiza el diseño con grid() para colocar los elementos en la ventana.
+- Se organiza el diseño con `grid()` para colocar los elementos en la ventana.
 6. **Ejecución de la Aplicación:** Se inicia el bucle principal de la aplicación con `ventana.mainloop()`, que mantiene la ventana abierta y activa.
 
 #### 3. Funcionalidades del Programa
